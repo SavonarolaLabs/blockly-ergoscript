@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  max-width: 100vw;
+}
+
+pre,
+code {
+  overflow: auto;
+}
+
+#pageContainer {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100%;
+  max-width: 100vw;
+  height: 100vh;
+}
+
+#blocklyDiv {
+  flex-basis: 100%;
+  width:100%;
+  min-width: 600px;
+}
+
+
