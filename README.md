@@ -52,5 +52,5 @@ To deploy your app so that others can use it, run `npm run build` to run a produ
 
 
 ## ErgoScript References
--[ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md)
--[ErgoScript Examples](https://github.com/ergoplatform/ergoscript-by-example)
+- [ErgoScript Language Description](https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md)  
+- [ErgoScript Examples](https://github.com/ergoplatform/ergoscript-by-example)  
